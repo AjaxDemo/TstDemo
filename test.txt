@@ -1,10 +1,8 @@
-<<<<<<< HEAD
-11111
-dev �޸���
+﻿11111
+dev 
 master chongtuceshi tijiao
-=======
 ﻿11111
 dev 改了下编码
->>>>>>> dev
+
 dev fenzhitijiao
 
