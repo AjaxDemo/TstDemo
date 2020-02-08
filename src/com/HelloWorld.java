@@ -6,7 +6,7 @@ public class HelloWorld {
                 System.out.println("add dev_temp");
 		System.out.println("20200110 change code");
 		System.out.println("master zm chage");
-		System.out.println("master zm test");
+	
 		
 	}
 }
