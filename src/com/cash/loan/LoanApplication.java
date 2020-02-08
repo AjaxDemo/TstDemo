@@ -7,5 +7,7 @@ public class LoanApplication {
 
         System.out.println("master zm change");
         System.out.println("20200110 change sth");
+        System.out.println("20200110 change sth");
+        System.out.println("20200110 change sth");
     }
 }
