@@ -10,5 +10,6 @@ public class LoanApplication {
         System.out.println("20200110 change sth");
         System.out.println("20200110 change sth");
         System.out.println("change sth remote");
+         System.out.println("test");
     }
 }
