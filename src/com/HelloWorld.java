@@ -8,6 +8,6 @@ public class HelloWorld {
 		System.out.println("master zm chage");
 		System.out.println("master zm test");
 		System.out.println("master zm test111");
-		System.out.println("master zm test222");
+		
 	}
 }
