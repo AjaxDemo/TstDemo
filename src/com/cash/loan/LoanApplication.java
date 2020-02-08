@@ -6,5 +6,6 @@ public class LoanApplication {
         System.out.println("新加分支dev1");
 
         System.out.println("master zm change");
+        System.out.println("20200110 change sth");
     }
 }
