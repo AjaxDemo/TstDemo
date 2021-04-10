@@ -9,5 +9,6 @@ public class LoanApplication {
 
     public void newChange() {
         System.out.println("修改111");
+         System.out.println("修改222");
     }
 }
