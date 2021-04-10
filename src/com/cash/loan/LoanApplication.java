@@ -8,7 +8,7 @@ public class LoanApplication {
     }
 
     public void newChange() {
-        System.out.println("修改");
+        System.out.println("修改111");
     }
 
     public void addNew() {
