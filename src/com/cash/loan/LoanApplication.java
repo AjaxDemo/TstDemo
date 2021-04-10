@@ -10,4 +10,8 @@ public class LoanApplication {
     public void newChange() {
         System.out.println("修改");
     }
+
+    public void addNew() {
+        System.out.println("add new");
+    )
 }
